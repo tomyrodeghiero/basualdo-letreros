@@ -7,11 +7,9 @@ import { Route } from "react-router-dom";
 import Menu from "./components/Menu/Menu";
 import Credits from "./pages/Credits/Credits";
 import Gallery from "./pages/Gallery/Gallery";
-import Banner from "./components/Banner/Banner";
 import React, { useEffect, useState } from "react";
 import useWindowWidth from "./hooks/useWindowWidth";
 import { CSSTransition } from "react-transition-group";
-import Preloader from "./components/Preloader/Preloader";
 import "../node_modules/locomotive-scroll/src/locomotive-scroll.scss";
 
 function App() {

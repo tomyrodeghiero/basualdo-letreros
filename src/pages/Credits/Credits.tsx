@@ -90,22 +90,13 @@ const Credits: React.FC<PageProps> = ({
               💻 Tomás Rodeghiero
             </p>
             <div className={S.media}>
-              <a
-                className={`${S.animateOpacity} ${S.icon}`}
-                href="https://twitter.com/P_h_i_l_i_x"
-              >
+              <a className={`${S.animateOpacity} ${S.icon}`}>
                 <Twitter />
               </a>
-              <a
-                className={`${S.animateOpacity} ${S.icon}`}
-                href="https://www.linkedin.com/in/felix-enyinnaya-b2593b173/"
-              >
+              <a className={`${S.animateOpacity} ${S.icon}`}>
                 <LinkedIn />
               </a>
-              <a
-                className={`${S.animateOpacity} ${S.icon}`}
-                href="https://www.behance.net/felixenyinnayadesign"
-              >
+              <a className={`${S.animateOpacity} ${S.icon}`}>
                 <Behance />
               </a>
             </div>
@@ -130,22 +121,13 @@ const Credits: React.FC<PageProps> = ({
               {/* Judah */}
             </p>
             <div className={S.media}>
-              <a
-                className={`${S.animateOpacity} ${S.icon}`}
-                href="https://twitter.com/tobijudah"
-              >
+              <a className={`${S.animateOpacity} ${S.icon}`}>
                 <Twitter />
               </a>
-              <a
-                className={`${S.animateOpacity} ${S.icon}`}
-                href="https://www.linkedin.com/in/oluwatobiju-judah-omotosho/"
-              >
+              <a className={`${S.animateOpacity} ${S.icon}`}>
                 <LinkedIn />
               </a>
-              <a
-                className={`${S.animateOpacity} ${S.icon}`}
-                href="https://github.com/Tobijudah"
-              >
+              <a className={`${S.animateOpacity} ${S.icon}`}>
                 <GitHub />
               </a>
             </div>

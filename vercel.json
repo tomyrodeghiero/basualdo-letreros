@@ -1,6 +1,6 @@
 {
-	"rewrites": [
-		{ "source": "/gallery", "destination": "/" },
-		{ "source": "/credits", "destination": "/" }
-	]
+  "rewrites": [
+    { "source": "/gallery", "destination": "/" },
+    { "source": "/contact", "destination": "/" }
+  ]
 }

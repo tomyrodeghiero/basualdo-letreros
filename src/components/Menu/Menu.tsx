@@ -285,7 +285,7 @@ const Menu: React.FC<MenuProps> = ({
           Galería <Icon className={S.icon} />
         </p>
       </Link>
-      <Link to="/credits">
+      <Link to="/contact">
         <p
           data-filter="2"
           data-splitting=""

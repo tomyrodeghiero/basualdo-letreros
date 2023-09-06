@@ -51,11 +51,7 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
             de diseño elegante con tecnología moderna. Utilizamos LED de alta
             calidad para asegurar que su mensaje se vea claro y brillante.
           </p>
-          <img
-            className={S.img}
-            src="https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1637486753/it/7-1_y73bqk.png"
-            alt="her"
-          />
+          <img className={S.img} src={imageSection08B} alt="her" />
         </div>
         <div className={S.box}>
           <LongLine
